@@ -68,4 +68,4 @@ This project helped me understand the **core principles of REST APIs**, includin
 ## 🔗 Author
 
 **Jeswin Jaison**  
-[GitHub](https://github.com/JeswinJaison) • [LinkedIn](https://linkedin.com/in/jeswinjaison)
+[GitHub](http://www.github.com/Jes087) • [LinkedIn](http://www.linkedin.com/in/jeswin-jaison-b2243b255)
